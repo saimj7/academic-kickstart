@@ -3,9 +3,9 @@
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 50  # Order that this section will appear.
+weight = 30  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Accomplishm-ents"
 subtitle = ""
 
 # Date format
@@ -21,31 +21,26 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Coursera"
   organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  title = "Self-Driving Cars Specialization"
+  date_start = "2019-05-01"
   date_end = ""
-  description = ""
+  description = "Projects needed to program a self-driving car! The course is offered by University of Toronto."
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
+  organization = "Udacity"
+  title = "Data Science MOOCS"
+  organization_url = "https://www.udacity.com"
+  date_start = "2018-02-01"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
-  
+  description = "Fundamentals in AI/Machine Learning, Image Processing techniques applicable towards Autonomous Driving."
+
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
-  url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  organization = "Blekinge Business Incubator"
+  title = "AI Co2mpetition"
+  organization_url = "https://www.b-b-i.se/"
+  url = "https://drive.google.com/open?id=1zNSfpZY8mSKh-VE083W_rDkMta2uqnjR"
+  date_start = "2019-02-06"
+  date_end = "2019-02-12"
+  description = "AI competition within Energy Efficiency by BBI & BTH. Developed a prototype on Electric Vehicles!"
 
 +++
